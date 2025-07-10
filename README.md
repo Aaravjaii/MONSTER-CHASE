@@ -1,4 +1,4 @@
-# 🌙 Night Dash
+# 🌙 MONSTER CHASE
 
 **Night Dash** is a fast-paced 2D endless runner game where you dash through the night, dodging obstacles and jumping over deadly enemies to survive as long as you can!
 
