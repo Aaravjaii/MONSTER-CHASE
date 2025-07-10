@@ -44,7 +44,7 @@ Don’t delete or move any files inside the folder. All files are required for t
 
 ## 🖼️ Screenshots
 
-![Screenshot](Screenshot%202025-07-10%20101228.png)  
+![Screenshot](Screenshot%202025-07-10%20101228.png)
 ![Screenshot](Screenshot%202025-07-10%20101903.png)  
 ![Screenshot](Screenshot%202025-07-10%20104436.png)
 
